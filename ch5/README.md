@@ -1,6 +1,6 @@
 # Progressive Web App Example
 
-## 지난 내용 - Chapter 5
+## Chapter 5
 
 - 푸시 알림 구독
 - 구독 정보 확인
