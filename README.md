@@ -1,4 +1,7 @@
-# Progressive Web App Example
+<div align="center">
+  <img src="./pwa.png" width="240px">
+  <h1>PWA - Progressive Web App | Getting Started</h1>
+</div>
 
 ## 강좌 소개
 
