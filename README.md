@@ -22,7 +22,7 @@
 - [프로그레시브 웹 앱 시작하기 (2) - 서비스워커 등록](http://codevkr.tistory.com/86)
 - [프로그레시브 웹 앱 시작하기 (3) - 리소스 캐싱 및 Fetch](http://codevkr.tistory.com/87)
 - [프로그레시브 웹 앱 시작하기 (4) - 서비스워커 상태](http://codevkr.tistory.com/88)
-- [프로그레시브 웹 앱 시작하기 (5) - Push, 푸시 알림 1](#)
+- [프로그레시브 웹 앱 시작하기 (5) - Push, 푸시 알림 1](https://codevkr.tistory.com/94)
 - [프로그레시브 웹 앱 시작하기 (6) - Push, 푸시 알림 2](#)
 
 ## 교육과정
