@@ -57,7 +57,7 @@
 
 [링크](https://www.boredpanda.com/animals-hybrids-photoshop/?utm_source=google&utm_medium=organic&utm_campaign=organic)
 
-## 생산자
+## 진행자
 
 - 이근혁
   - Github: [Geunhyeok LEE](https://github.com/leegeunhyeok)
