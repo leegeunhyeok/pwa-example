@@ -18,12 +18,12 @@
 
 ## 목차
 
-- [프로그레시브 웹 앱 시작하기 (1) - PWA란?](http://codevkr.tistory.com/85)
-- [프로그레시브 웹 앱 시작하기 (2) - 서비스워커 등록](http://codevkr.tistory.com/86)
-- [프로그레시브 웹 앱 시작하기 (3) - 리소스 캐싱 및 Fetch](http://codevkr.tistory.com/87)
-- [프로그레시브 웹 앱 시작하기 (4) - 서비스워커 상태](http://codevkr.tistory.com/88)
-- [프로그레시브 웹 앱 시작하기 (5) - Push, 푸시 알림 1](https://codevkr.tistory.com/94)
-- [프로그레시브 웹 앱 시작하기 (6) - Push, 푸시 알림 2](https://codevkr.tistory.com/95)
+- [프로그레시브 웹 앱 시작하기 (1) - PWA란?](https://blog.geundung.dev/85)
+- [프로그레시브 웹 앱 시작하기 (2) - 서비스워커 등록](https://blog.geundung.dev/86)
+- [프로그레시브 웹 앱 시작하기 (3) - 리소스 캐싱 및 Fetch](https://blog.geundung.dev/87)
+- [프로그레시브 웹 앱 시작하기 (4) - 서비스워커 상태](https://blog.geundung.dev/88)
+- [프로그레시브 웹 앱 시작하기 (5) - Push, 푸시 알림 1](https://blog.geundung.dev/94)
+- [프로그레시브 웹 앱 시작하기 (6) - Push, 푸시 알림 2](https://blog.geundung.dev/95)
 
 ## 교육과정
 
