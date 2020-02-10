@@ -25,7 +25,7 @@
 - [프로그레시브 웹 앱 시작하기 (5) - Push, 푸시 알림 1](https://blog.geundung.dev/94)
 - [프로그레시브 웹 앱 시작하기 (6) - Push, 푸시 알림 2](https://blog.geundung.dev/95)
 
-## 교육과정
+## 상세 목차
 
 - `Chapter 1` 프로그레시브 웹 앱 시작하기 (1) - PWA란?
   - PWA에 대한 기본 이론 학습
