@@ -3,6 +3,27 @@
   <h1>PWA - Progressive Web App | Getting Started</h1>
 </div>
 
+## (공지) SNS 앱 예제로 배우는 프로그레시브 웹 앱 출간 안내
+
+<img alt="book" src="https://user-images.githubusercontent.com/26512984/88422695-9d83e500-ce25-11ea-85f3-ac0a107633c4.jpg" width="300">
+
+(출간일: 2020.07.31)
+
+- [YES24](http://www.yes24.com/Product/Goods/91360603)
+- [교보문고](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791165920081&orderClick=LAG&Kc=)
+- [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=247327624)
+- [인터파크도서](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=335305874)
+
+### 소개
+
+안녕하세요, 이근혁 입니다. 이번에 프로그레시브 웹 앱에 대한 도서를 출간하게 되었습니다. 
+프로그레시브 웹 앱의 기본적인 개념 뿐만 아니라 서비스 워커부터 오프라인 캐싱, 백그라운드 동기화, 푸시 알림까지
+핵심적인 내용에 대해 최대한 쉽고 상세하게 전달할 수 있도록 준비하였습니다.
+
+다양한 개선 방안과 활용 방안까지 준비했으니 `SNS 앱 예제로 배우는 프로그레시브 웹 앱`에 많은 관심 부탁드립니다!
+
+----
+
 ## 강좌 소개
 
 프로그레시브 웹 앱에 대한 전반적인 내용과 활용법에 대해 학습할 수 있는 기초 강좌입니다.  
@@ -51,7 +72,8 @@
   - 푸시 알림 클릭 이벤트
   - 푸시 알림 구독 취소
   - 브라우저 알림 권한 확인
-- `Chapter 7` 준비 중..
+- `Chapter 7`
+  - 백그라운드 동기화, 푸시 알림, IndexedDB와 같은 다양한 활용 방안은 [SNS 앱 예제로 배우는 프로그레시브 웹 앱](#)에서 만나볼 수 있습니다.
 
 ## 이미지 출처
 
