@@ -7,6 +7,8 @@
 
 <img alt="book" src="https://user-images.githubusercontent.com/26512984/88422695-9d83e500-ce25-11ea-85f3-ac0a107633c4.jpg" width="300">
 
+- [책 살펴보기!](https://geundung.dev/106)
+
 (출간일: 2020.07.31)
 
 - [YES24](http://www.yes24.com/Product/Goods/91360603)
